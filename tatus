@@ -1,0 +1,15 @@
+[33m075a41e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Layout
+[33m1946efd[m Delete settings.gradle.kts
+[33m22c7231[m Delete hs_err_pid14004.log
+[33m1b00b47[m Delete hs_err_pid10572.log
+[33mf026ca9[m Delete gradlew.bat
+[33m8a8b9ee[m Delete gradlew
+[33mcdd6e2e[m Delete gradle.properties
+[33m788ef4e[m Delete build.gradle.kts
+[33m782a67e[m Delete README.md
+[33m478907d[m Delete .gitignore
+[33m2849108[m Delete gradle directory
+[33m4cf4b30[m Delete app directory
+[33m2daba78[m Delete .idea directory
+[33m2d7acbf[m SavvySaver Application
+[33m5a09ff1[m add deadline

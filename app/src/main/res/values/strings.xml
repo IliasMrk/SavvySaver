@@ -1,0 +1,36 @@
+<resources>
+    <string name="welcome_message">Welcome to SavvySaver</string>
+    <string name="app_name">SavvySaver</string>
+    <string name="BudgetButton">Update Budget</string>
+    <string name="ExpensesButton">Expenses</string>
+    <string name="ViewButton">View Expenses</string>
+    <string name="EditButton">Edit</string>
+    <string name="BackButton">Back</string>
+    <string name="DeleteButton">Delete</string>
+    <string name="UpdateButton">Update</string>
+    <string name="AddButton">Add</string>
+    <string name="item_title">Enter title</string>
+    <string name="Item_amount">Enter amount</string>
+    <string name="expense_date">Enter Expense Date</string>
+    <string name="enter_your_budget">Set your Budget</string>
+    <string name="set_budget_button">Set</string>
+    <string name="budget_text">Your Current budget is: 00.00</string>
+    <string name="start_button">Start</string>
+    <string name="expenses_cost">Your current expenses are: 00.00</string>
+    <string name="breakdown_by_category">Breakdown</string>
+    <string name="Expense_Title">Title</string>
+    <string name="Expense_Amount">Amount</string>
+    <string name="Expense_Date">Date</string>
+    <string name="exit_button">Exit App</string>
+    <string name="ExpenseHistory">Expense History</string>
+    <string name="savings">You saved: 00.00</string>
+    <string name="logo">logo</string>
+    <!-- Category strings -->
+    <string-array name="category_array">
+        <item>Utilities</item>
+        <item>Shopping</item>
+        <item>Entertainment</item>
+        <item>Transport</item>
+        <item>Other</item>
+    </string-array>
+</resources>
